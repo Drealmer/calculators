@@ -1,0 +1,266 @@
+brand: Texas Instuments
+model: Galaxy 10
+power: LR44x2
+state: working, hard-cover
+picture: IMG_20210925_203808
+
+brand: Sharp
+model: ELSI MATE EL-230
+power: AAx2
+state: working, new, boxed, manual
+picture: IMG_20210925_204358
+
+brand: Decimo
+model: Vatman Mini MII
+power: AAx1
+state: working, glare
+picture: IMG_20210925_204828
+
+brand: Casio
+model: fx-82TI S-VPAM
+power: AAx2
+state: working
+picture: IMG_20210925_205322
+
+brand: Detron
+model: S816MS
+power: AAx2
+state: working, boxed, manual
+notes: left-aligned
+picture: IMG_20210925_205817
+
+brand: Unico
+model: H-884
+power: AAx4
+state: working, boxed, manual, pouch
+picture: IMG_20210925_210251
+
+brand: Texas Instruments
+model: TI-1200
+power: PP3x1
+state: working, pouch
+picture: IMG_20210925_210946
+
+brand: Texas Instruments
+model: SR-50A
+power: battery pack
+state: ???, pouch
+picture: IMG_20210925_211712
+
+brand: Texas Instruments
+model: SR-50A
+power: battery pack
+state: ???, pouch
+picture: IMG_20210925_211947
+
+brand: Texas Instruments
+model: TI-51-III
+power: battery pack
+state: ???, pouch
+picture: IMG_20210925_212221
+
+brand: Texas Instruments
+model: TI-2550II
+power: battery pack
+state: ???, pouch
+picture: IMG_20210925_212340
+
+brand: Texas Instruments
+model: SR-51
+power: battery pack
+state: ???, pouch, manual
+notes: hacked battery pack, cleaned up
+picture: IMG_20210925_215618
+
+brand: Texas Instruments
+model: TI-45
+power: battery pack
+state: ???, pouch, manual
+picture: IMG_20210925_220024
+
+brand: Novus
+model: Statistician 6030
+power: PP3x1
+state: dead, pouch
+notes: input only works for digits 6 and 9
+picture: IMG_20210925_221256
+
+brand: Casio
+model: fx-202P
+power: AAx4
+state: working, pouch, manual
+picture: IMG_20210925_221708
+
+brand: Texas Instruments
+model: TI-30
+power: PP3x1
+state: working, pouch
+notes: screen saver on idle (moving dot)
+picture: IMG_20210925_222043
+
+brand: Constellation
+model: 808GL
+power: AAx3
+state: working, pouch, manual
+picture: IMG_20210925_222726
+
+brand: Tandi
+model: EC-380
+power: AAx2
+state: working, manual
+notes: missing manual cover
+picture: IMG_20210925_223105
+
+brand: Texas Instruments
+model: TI-66 Programmable
+power: LR44x2
+state: working, pouch
+picture: IMG_20210925_223423
+
+brand: Sharp
+model: EL-8005S
+power: AAx4
+state: working, pouch
+picture: IMG_20210925_223907_1
+
+brand: Casio
+model: Memory B-1
+power: AAx2
+state: working, pouch
+picture: IMG_20210925_224109
+
+brand: APF
+model: Mark 30
+power: PP3x1
+state: working, pouch
+picture: IMG_20210925_224630
+
+brand: Sperry Remington
+model: ???
+power: AAx2
+state: working, pouch
+picture: IMG_20210925_224849
+
+brand: Texas Instruments
+model: TI-510
+power: solar, LR1130x1
+state: working, unopenable, glare
+picture: IMG_20210926_152202
+
+brand: Texas Instruments
+model: TI-30X
+power: LR44x2
+state: dead, cover missing
+notes: input fails with several keys like x and +
+picture: IMG_20210926_153402
+
+brand: Casio
+model: HR8A-BK
+power: AAx4
+state: working, printer
+notes: printer not working
+picture: IMG_20210926_160352
+
+brand: Casio
+model: fx-82A
+power: AAx2
+state: working, hard-cover
+notes: hard-cover missing lid
+picture: IMG_20210926_161333
+
+brand: Canon
+model: Palmtronic 8M
+power: AAx2
+state: working
+picture: IMG_20210926_161725
+
+brand: Sharp
+model: ELSI MATE EL-230
+power: AAx2
+state: working
+picture: IMG_20210926_161936
+
+brand: Sharp
+model: ELSI MATE EL-214
+power: AAx2
+state: dead
+picture: IMG_20210926_162459
+
+brand: Texas Instruments
+model: TI-53
+power: LR44x2
+state: dead
+picture: IMG_20210926_163012
+
+brand: Vanward
+model: ???
+power: AAx2
+state: working
+notes: often repeats keyboard input
+picture: IMG_20210926_163238
+
+brand: Hewlett Packard
+model: 42S
+power: LR44x3
+state: working, pouch
+picture: IMG_20210926_164108
+
+brand: Commodore
+model: 4109
+power: built-in battery
+state: ???
+picture: IMG_20210926_164641
+
+brand: Canon
+model: F-73P
+power: LR44x2
+state: working, wallet
+picture: IMG_20210926_164809
+
+brand: top\write
+model: C6602
+power: LR54x1
+state: working, boxed, unopened
+picture: IMG_20210926_165407
+
+brand: Canon
+model: FP-10
+power: built-in battery
+state: ???
+picture: IMG_20210926_170553
+
+brand: Clover
+model: 5230
+power: AAx2
+state: working
+picture: IMG_20210926_170941
+
+brand: Mindtron
+model: 802DG
+power: AAx2
+state: working, pouch
+picture: IMG_20210926_171126
+
+brand: Olympia
+model: FT1
+power: LR54x3
+state: working, wallet
+picture: IMG_20210926_171556
+
+brand: MVB
+model: 403D
+power: AAx2
+state: dead, pouch
+picture: IMG_20210926_172551
+
+brand: Casio
+model: fx-7000G
+power: CR2032x3
+state: dead
+picture: IMG_20210926_174158
+
+brand: Sperry Remington
+model: 839M
+power: AAx2
+state: working, pouch
+picture: IMG_20210926_174409
