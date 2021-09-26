@@ -264,3 +264,128 @@ model: 839M
 power: AAx2
 state: working, pouch
 picture: IMG_20210926_174409
+
+brand: Casio
+model: SL-880
+power: solar
+state: working, new, boxed, game
+picture: IMG_20210926_195729
+
+brand: Texas Instruments
+model: TI-82
+power: AAAx3 + CR1620x1
+state: working, hard-cover
+picture: IMG_20210926_200310
+
+brand: Canon
+model: P41-D
+power: AAx4
+state: working
+picture: IMG_20210926_200848
+
+brand: ???
+model: ???
+power: solar
+state: working
+picture: IMG_20210926_201130
+
+brand: Brother
+model: 408
+power: power supply
+state: working
+picture: IMG_20210926_201654
+
+brand: Unisonic
+model: 757
+power: wired
+state: working
+picture: IMG_20210926_202107
+
+brand: Casio
+model: HR-15
+power: AAx4
+state: working, printer
+picture: IMG_20210926_202441
+
+brand: Casio
+model: pocket-mini P810
+power: AAx2
+state: working
+picture: IMG_20210926_203527
+
+brand: Sperry Remington
+model: 821GT
+power: AAx4
+state: working, pouch
+notes: small zeros
+picture: IMG_20210926_203828
+
+brand: Tandy
+model: EC-4006
+power: AAx2
+state: working, pouch
+picture: IMG_20210926_204105
+
+brand: ???
+model: ???
+power: solar
+state: working, promo
+notes: mars confectionery, M&M's branded
+picture: IMG_20210926_204259
+
+brand: Radio Shack
+model: EC-2001
+power: Dx2
+state: working
+picture: IMG_20210926_204630
+
+brand: Casio
+model: HR-8
+power: AAx4
+state: working, printer
+notes: won't turn off
+picture: IMG_20210926_205223_BURST1
+
+brand: Casio
+model: LC-160ER
+power: LR54x1
+state: working, hard-cover
+picture: IMG_20210926_205915
+
+brand: Prinztronic
+model: SR99P
+power: AAx2
+state: working
+picture: IMG_20210926_210537_1
+
+brand: Tandy
+model: EC-4005
+power: AAx2
+state: dead
+notes: turns on, displays zero, nothing else
+picture: IMG_20210926_210838
+
+brand: Invicta
+model: Electronic Master Mind
+power: AAx2
+state: working, wallet, game
+notes: not a calculator, only a game
+picture: IMG_20210926_212046
+
+brand: Novus
+model: 950
+power: 6LR61x1
+state: dead
+picture: IMG_20210926_212622
+
+brand: Adler
+model: 81S
+power: AAAx4
+state: working, pouch
+picture: IMG_20210926_213002
+
+brand: Citizen
+model: LC-503
+power: LR54x1
+state: working
+picture: IMG_20210926_213153

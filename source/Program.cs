@@ -57,6 +57,8 @@ namespace mkgen
             output.WriteLine("| Brand | Model | Picture |");
             output.WriteLine("|-|-|-|");
 
+            var count = 0;
+
             string line;
             var data = new Dictionary<string, string>();
             do
@@ -74,6 +76,7 @@ namespace mkgen
                         if(picture != null) picture = GetThumbnail(picture);
                         output.WriteLine($"| {brand} | {model} | ![]({picture})");
                     }
+                    count += 1;
                     data.Clear();
                 }
                 else
@@ -85,6 +88,8 @@ namespace mkgen
                 }
             }
             while (line != null);
+
+            output.WriteLine($"{count} entries in database");
         }
 
         private static string GetThumbnail(string filename)
